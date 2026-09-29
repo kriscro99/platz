@@ -1,0 +1,13 @@
+{
+  "name": "Platz Food & Drink",
+  "short_name": "Platz",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0a07",
+  "theme_color": "#0c0a07",
+  "icons": [
+    { "src": "favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "favicon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "favicon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
